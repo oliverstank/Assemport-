@@ -1,5 +1,3 @@
 this is a fork of https://github.com/Bizarrus/Assemport , however with increased functionality, allowing exporting of .ASM, and .C psuedocode of selected functions, and all functions. 
 
 ![Screenshot](Screenshots/image.png)
-
-![alt text](https://iplogger.co/1dqCF4) 
